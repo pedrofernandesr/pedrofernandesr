@@ -17,11 +17,12 @@
 
 ---
 
-### 📌 Destaques & Formações
+### 📌 Destaques, Formações & Certificações
 
-- 📊 **Sistema de Produtividade (Grupo Potiguar):** Automação e dashboards em Looker Studio / SQL via CESAR School.
-- ⚡ **Programa Trilhas (Inova MA):** Imersão em microsserviços, APIs REST, Python, Node.js e Docker.
-- 🛡️ **Hackers do Bem (RNP/MCTI):** 144h de capacitação em cibersegurança e redes.
+- 📊 **Projeto Grupo Potiguar (RH Analytics):** Protótipo automatizado de mensuração de produtividade em Looker Studio / SQL, desenvolvido durante o **Programa Fundação Digital**.
+- 🎓 **Programa Fundação Digital (CESAR School - 144h):** Formação em Análise de Dados, Storytelling, Dashboards, Soft Skills e Projetos práticos em ecossistema de inovação (Mar/2026 – Jun/2026).
+- ⚡ **Programa Trilhas (Inova MA / FAPEMA):** Imersão em microsserviços, APIs REST, Python, Node.js e Docker.
+- 🛡️ **Hackers do Bem (RNP/MCTI - 144h):** Cibersegurança, governança e fundamentos de redes/Linux.
 - 🤖 **Edge AI & IoT (PNAAT):** Formação prática em sistemas embarcados e Python para hardware.
 
 ---
